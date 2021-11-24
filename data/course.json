@@ -1,0 +1,28 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "50a3a80b-5bf1-d69b-babb-f8a7546732b7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Atomic and Optical Physics II",
+  "course_description": "This is the second of a two-semester subject sequence beginning with Atomic and Optical Physics I (8.421) that provides the foundations for contemporary research in selected areas of atomic and optical physics. Topics covered include non-classical states of light\u2013squeezed states; multi-photon processes, Raman scattering; coherence\u2013level crossings, quantum beats, double resonance, superradiance; trapping and cooling-light forces, laser cooling, atom optics, spectroscopy of trapped atoms and ions; atomic interactions\u2013classical collisions, quantum scattering theory, ultracold collisions; and experimental methods.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.422",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
